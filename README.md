@@ -19,7 +19,7 @@ defensive, data-driven security projects and document them clearly.
 - 🔭 **Currently working on:** machine-learning pipelines for network intrusion detection
 - 🌱 **Currently learning:** [e.g. SIEM, threat hunting, cloud security — edit this]
 - 🎯 **Interests:** threat detection, security analytics, risk management, secure design
-- 📫 **Reach me:** [your.email@example.com] · [LinkedIn](https://www.linkedin.com/in/your-handle)
+- 📫 **Reach me:** [mindwanderer136.1hr@gmail.com] · [LinkedIn](https://www.linkedin.com/in/om-prakash-kandel-3758a5190/)
 
 ---
 
